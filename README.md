@@ -31,7 +31,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
 
 ### Languajes y Herramientas Por Aprender:
 
@@ -47,8 +46,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
+
 
 
 ---
@@ -78,7 +76,7 @@
 [website]: https://broncas.es
 [course]: https://broncas.es
 [twitter]: https://twitter.com/soybroncas
-[youtube]: https://youtube.com/broncas
+[youtube]: https://www.youtube.com/channel/UCjFDO2sUUan6vnRAoY9NAIQ
 [instagram]: https://instagram.com/codeSTACKr
 <!--[linkedin]: https://linkedin.com/in/codeSTACKr 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
