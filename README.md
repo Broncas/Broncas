@@ -8,9 +8,8 @@
 - 🥅 2021 Metas: Aprender y mejorar en JavaScript, Node.JS, React.JS y ElectronJS
 - ⚡ Hobbies: Ver series y peliculas 
 
-)
 
-### Connect with me:
+### Encuentrame:
 
 [<img align="left" alt="Broncas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Broncas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
