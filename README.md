@@ -7,7 +7,8 @@
 - 📁 Ando buscando proyectos en los que colaborar y ayudar para mejorarlos 📂
 - 🥅 2021 Metas: Aprender y mejorar en JavaScript, Node.JS, React.JS y ElectronJS
 - ⚡ Hobbies: Ver series y peliculas 
-
+- 
+---
 
 ### Encuentrame:
 
@@ -18,6 +19,8 @@
 [<img align="left" alt="Broncas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Lenguajes y Herramientas:
 
