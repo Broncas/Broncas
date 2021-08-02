@@ -1,6 +1,6 @@
 ### Hola, Soy Broncas 👋
 
-## Soy un chaval normal que le gusta internet y probar, hacer y buscar cosas
+## Soy un chaval normal que le gusta internet y buscar, hacer y probar cosas
 - 📍 Andalucia, España 🥵
 - 🧑‍💻 Soy un chaval que le gusta aprender muchas cosas que tengan que ver con la informatica 👨‍💻
 - 📓 Actualmente aprendiendo lo que haga falta 📣
