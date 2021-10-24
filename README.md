@@ -4,7 +4,7 @@
 - 📍 Andalucia, España 🥵
 - 📓 Actualmente aprendiendo lo que haga falta 📣
 - 📁 Ando buscando proyectos en los que colaborar y ayudar para mejorarlos 📂
-- 🥅 2021 Metas: Aprender y mejorar en JavaScript, Node.JS, React.JS y ElectronJS
+- 🥅 2021 Metas: Aprender y mejorar en todo lo que venga
 - ⚡ Hobbies: Ver series y peliculas 
 
 <br />
