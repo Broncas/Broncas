@@ -39,22 +39,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br />
-
-
----
-
-### 📺 Cursos recomendados para aprender
-
-<!-- YOUTUBE:START -->
-- [Curso de HTML de Soy Dalto -2,2hrs-](https://www.youtube.com/watch?v=kN1XP-Bef7w)
-- [Curso de CSS de Soy Dalto -10hrs-](https://www.youtube.com/watch?v=OWKXEJN67FE)
-- [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL de Código Con Juan -90hrs-](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/learn/lecture/24106032?start=240#overview)
-- [Cursos con Certificacion para el Currriculum de Google Activate](https://learndigital.withgoogle.com/activate)
-- [Cursos de Programacion Con Certificacion De Finalizacion Muy Recomendados de FreeCodeCamp ](https://www.freecodecamp.org)
-<!-- YOUTUBE:END -->
-
-➡️ [Mas cursos...](https://udemy.com/)
 
 <br />
 
