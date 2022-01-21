@@ -1,4 +1,4 @@
-### Hola, Soy Viced 👋
+### Hola, Soy Broncas 👋
 
 ## Soy un chaval normal que le gusta internet y buscar, hacer y probar cosas
 - 📍 Andalucia, España 🥵
@@ -52,9 +52,9 @@
 
 </details>
 
-[website]: https://viced.es
-[course]: https://viced.es
-[twitter]: https://twitter.com/soyviced
+[website]: https://broncas.es
+[course]: https://broncas.es
+[twitter]: https://twitter.com/soybroncas
 [youtube]: https://www.youtube.com/channel/UCjFDO2sUUan6vnRAoY9NAIQ
 [instagram]: https://instagram.com/codeSTACKr
 <!--[linkedin]: https://linkedin.com/in/codeSTACKr 
