@@ -1,12 +1,12 @@
-### Hola, Soy Broncas 👋
+### Hola, Soy Lihwak 👋
 
-## Soy un chaval normal que le gusta internet buscar y trastear cosas
-- 📍 Andalucia, España 🥵
-- 📓 Actualmente aprendiendo lo que haga falta 📣
-- 📁 Ando buscando proyectos en los que colaborar y ayudar para mejorarlos 📂
-- ⚡ Hobbies: Ver series y peliculas 
+## Soy moro y dentro de poco hare 💣
+- 📍 España.
+- 📓 Actualmente aprendiendo a aprender.
+- 📁 Preparando proyectos.
+- ⚡ Hobbies: Ver series y peliculas.
 
-<!--- 🥅 2022 Metas: Aprender y mejorar en todo lo que venga -->
+<!--- 🥅 2025 Metas: Aprender y mejorar en todo lo que venga -->
 
 <br />
 
@@ -53,8 +53,8 @@
 
 </details>
 
-<!-- [website]: https://broncas.es
-[course]: https://broncas.es
+[website]: https://trackea.do
+<!-- [course]: https://broncas.es
 [twitter]: 
 [youtube]: 
 [instagram]:  -->
