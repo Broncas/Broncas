@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Contact me:</h3>** 
 <p align="left"><a href="https://github.com/broncas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Versatile full-stack web developer crafting dynamic and scalable web solutions. Proficient in front-end and back-end technologies, with a strong focus on seamless user experiences and high-performance applications.</h3>**
