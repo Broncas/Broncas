@@ -1,63 +1,44 @@
-### Hola, Soy Lihwak 👋
+![👋 Hi, i am Broncash](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-## Soy moro y dentro de poco hare 💣
-- 📍 España.
-- 📓 Actualmente aprendiendo a aprender.
-- 📁 Preparando proyectos.
-- ⚡ Hobbies: Ver series y peliculas.
+![Profile views](https://komarev.com/ghpvc/?username=Broncas&label=Profile%20views&color=0e75b6&style=flat)
 
-<!--- 🥅 2025 Metas: Aprender y mejorar en todo lo que venga -->
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, i am Broncash
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<br />
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/broncas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+ **<h3 align="left">🚀 Versatile full-stack web developer crafting dynamic and scalable web solutions. Proficient in front-end and back-end technologies, with a strong focus on seamless user experiences and high-performance applications.</h3>**
 
+**<h3 align="left">Rapid Fire</h3>**
 
-<!-- ### Encuentrame:
- -->
-<!-- [<img align="left" alt="Broncas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="Broncas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Broncas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!--[<img align="left" alt="Broncas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-<!-- [<img align="left" alt="Broncas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] --> 
+- 💼 I'm currently working on: **💻 Developing a new link-on-profile platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring web developing**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MySQL, and CRUD APIs**
 
-<br />
+ **<h3 align="left">Skills</h3>**
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" height="32" alt="Puppeteer" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"></div>
 
-## Lenguajes y Herramientas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=000)
-![Github](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=Github&logoColor=fff)
-![BASH](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=lime)
-<br />
+ **<h3 align="left">GitHub Stats</h3>**
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=broncas&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=broncas&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-<!-- ### Lenguajes y Herramientas por Aprender:
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=broncas&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=broncas&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=false" alt="GitHub repo-card Card" />
+</p>
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+ **<h3 align="left">Support Me</h3>**
 
-
-<br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Estadisticas de GitHub de Broncas" src="https://github-readme-stats.vercel.app/api?username=broncas&hide=contribs,prs" />
-
-</details>
-
-[website]: https://trackea.do
-<!-- [course]: https://broncas.es
-[twitter]: 
-[youtube]: 
-[instagram]:  -->
-<!--[linkedin]: 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0-->
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
